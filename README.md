@@ -1,1 +1,1 @@
-# harry-potter-knowledge-base-representation-checker
+# Harry Potter - Knowledge Base Representation Checker
