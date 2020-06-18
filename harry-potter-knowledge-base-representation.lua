@@ -1,3 +1,8 @@
+-- HARRY POTTER'S KNOWLEDGE BASE REPRESENTATION
+
+-- Description:
+-- - A project based in Knowledge Base Representation and Logic Programming. This project was built using both Prolog, with the support of SWISH and SWI-Prolog, and Lua. The project it's a simple application to allow to make checks, verification and queries, about some information and data, of the well-known Series of Fantasy Novels and Movies' Sagas of Harry Potter, through a knowledge base representation, built with facts, predicates, rules and structs, among many others!
+
 -- Author:
 -- - Ruben Andre Barreiro
 -- - Computer Science/Engineering
